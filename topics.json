@@ -1,0 +1,3285 @@
+[
+	{
+		"id" : 1,
+		"name" : "Array - Reverse the array",
+		"description" : "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 2,
+		"name" : "Array - Find the maximum and minimum element in an array",
+		"description" : "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 3,
+		"name" : "Array - Find the \"Kth\" max and min element of an array ",
+		"description" : "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 4,
+		"name" : "Array - Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+		"description" : "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 5,
+		"name" : "Array - Move all the negative elements to one side of the array ",
+		"description" : "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 6,
+		"name" : "Array - Find the Union and Intersection of the two sorted arrays.",
+		"description" : "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 7,
+		"name" : "Array - Write a program to cyclically rotate an array by one.",
+		"description" : "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 8,
+		"name" : "Array - find Largest sum contiguous Subarray [V. IMP]",
+		"description" : "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 9,
+		"name" : "Array - Minimise the maximum difference between heights [V.IMP]",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 10,
+		"name" : "Array - Minimum no. of Jumps to reach end of an array",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 11,
+		"name" : "Array - find duplicate in an array of N+1 Integers",
+		"description" : "https://leetcode.com/problems/find-the-duplicate-number/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 12,
+		"name" : "Array - Merge 2 sorted arrays without using Extra space.",
+		"description" : "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 13,
+		"name" : "Array - Kadane's Algo [V.V.V.V.V IMP]",
+		"description" : "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 14,
+		"name" : "Array - Merge Intervals",
+		"description" : "https://leetcode.com/problems/merge-intervals/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 15,
+		"name" : "Array - Next Permutation",
+		"description" : "https://leetcode.com/problems/next-permutation/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 16,
+		"name" : "Array - Count Inversion",
+		"description" : "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 17,
+		"name" : "Array - Best time to buy and Sell stock",
+		"description" : "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 18,
+		"name" : "Array - find all pairs on integer array whose sum is equal to given number",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 19,
+		"name" : "Array - find common elements In 3 sorted arrays",
+		"description" : "https://practice.geeksforgeeks.org/problems/common-elements1132/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 20,
+		"name" : "Array - Rearrange the array in alternating positive and negative items with O(1) extra space",
+		"description" : "https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 21,
+		"name" : "Array - Find if there is any subarray with sum equal to 0",
+		"description" : "https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 22,
+		"name" : "Array - Find factorial of a large number",
+		"description" : "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 23,
+		"name" : "Array - find maximum product subarray ",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 24,
+		"name" : "Array - Find longest coinsecutive subsequence",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 25,
+		"name" : "Array - Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+		"description" : "https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 26,
+		"name" : "Array - Maximum profit by buying and selling a share atmost twice",
+		"description" : "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 27,
+		"name" : "Array - Find whether an array is a subset of another array",
+		"description" : "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 28,
+		"name" : "Array - Find the triplet that sum to a given value",
+		"description" : "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 29,
+		"name" : "Array - Trapping Rain water problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 30,
+		"name" : "Array - Chocolate Distribution problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 31,
+		"name" : "Array - Smallest Subarray with sum greater than a given value",
+		"description" : "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 32,
+		"name" : "Array - Three way partitioning of an array around a given value",
+		"description" : "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 33,
+		"name" : "Array - Minimum swaps required bring elements less equal K together",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 34,
+		"name" : "Array - Minimum no. of operations required to make an array palindrome",
+		"description" : "https://practice.geeksforgeeks.org/problems/palindromic-array/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 35,
+		"name" : "Array - Median of 2 sorted arrays of equal size",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-the-median0527/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 36,
+		"name" : "Array - Median of 2 sorted arrays of different size",
+		"description" : "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 39,
+		"name" : "Matrix - Spiral traversal on a Matrix",
+		"description" : "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 40,
+		"name" : "Matrix - Search an element in a matriix",
+		"description" : "https://leetcode.com/problems/search-a-2d-matrix/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 41,
+		"name" : "Matrix - Find median in a row wise sorted matrix",
+		"description" : "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 42,
+		"name" : "Matrix - Find row with maximum no. of 1's",
+		"description" : "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 43,
+		"name" : "Matrix - Print elements in sorted order using row-column wise sorted matrix",
+		"description" : "https://practice.geeksforgeeks.org/problems/sorted-matrix/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 44,
+		"name" : "Matrix - Maximum size rectangle",
+		"description" : "https://practice.geeksforgeeks.org/problems/max-rectangle/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 45,
+		"name" : "Matrix - Find a specific pair in matrix",
+		"description" : "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 46,
+		"name" : "Matrix - Rotate matrix by 90 degrees",
+		"description" : "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 47,
+		"name" : "Matrix - Kth smallest element in a row-cpumn wise sorted matrix",
+		"description" : "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 48,
+		"name" : "Matrix - Common elements in all rows of a given matrix",
+		"description" : "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 51,
+		"name" : "String - Reverse a String",
+		"description" : "https://leetcode.com/problems/reverse-string/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 52,
+		"name" : "String - Check whether a String is Palindrome or not",
+		"description" : "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 53,
+		"name" : "String - Find Duplicate characters in a string",
+		"description" : "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 54,
+		"name" : "String - Why strings are immutable in Java?",
+		"description" : "No link provided",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 55,
+		"name" : "String - Write a Code to check whether one string is a rotation of another",
+		"description" : "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 56,
+		"name" : "String - Write a Program to check whether a string is a valid shuffle of two strings or not",
+		"description" : "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 57,
+		"name" : "String - Count and Say problem",
+		"description" : "https://leetcode.com/problems/count-and-say/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 58,
+		"name" : "String - Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 59,
+		"name" : "String - Find Longest Recurring Subsequence in String",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 60,
+		"name" : "String - Print all Subsequences of a string.",
+		"description" : "https://www.geeksforgeeks.org/print-subsequences-string/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 61,
+		"name" : "String - Print all the permutations of the given string",
+		"description" : "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 62,
+		"name" : "String - Split the Binary string into two substring with equal 0s and 1s",
+		"description" : "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 63,
+		"name" : "String - Word Wrap Problem [VERY IMP].",
+		"description" : "https://practice.geeksforgeeks.org/problems/word-wrap/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 64,
+		"name" : "String - EDIT Distance [Very Imp]",
+		"description" : "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 65,
+		"name" : "String - Find next greater number with same set of digits. [Very Very IMP]",
+		"description" : "https://practice.geeksforgeeks.org/problems/next-permutation/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 66,
+		"name" : "String - Balanced Parenthesis problem.[Imp]",
+		"description" : "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 67,
+		"name" : "String - Word break Problem[ Very Imp]",
+		"description" : "https://practice.geeksforgeeks.org/problems/word-break/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 68,
+		"name" : "String - Rabin Karp Algo",
+		"description" : "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 69,
+		"name" : "String - KMP Algo",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 70,
+		"name" : "String - Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+		"description" : "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 71,
+		"name" : "String - Minimum number of bracket reversals needed to make an expression balanced.",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-the-reversals/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 72,
+		"name" : "String - Count All Palindromic Subsequence in a given String.",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 73,
+		"name" : "String - Count of number of given string in 2D character array",
+		"description" : "https://www.geeksforgeeks.org/find-count-number-given-string-present-2d-character-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 74,
+		"name" : "String - Search a Word in a 2D Grid of characters.",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 75,
+		"name" : "String - Boyer Moore Algorithm for Pattern Searching.",
+		"description" : "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 76,
+		"name" : "String - Converting Roman Numerals to Decimal",
+		"description" : "https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 77,
+		"name" : "String - Longest Common Prefix",
+		"description" : "https://leetcode.com/problems/longest-common-prefix/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 78,
+		"name" : "String - Number of flips to make binary string alternate",
+		"description" : "https://practice.geeksforgeeks.org/problems/min-number-of-flips/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 79,
+		"name" : "String - Find the first repeated word in string.",
+		"description" : "https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 80,
+		"name" : "String - Minimum number of swaps for bracket balancing.",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 81,
+		"name" : "String - Find the longest common subsequence between two strings.",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 82,
+		"name" : "String - Program to generate all possible valid IP addresses from given  string.",
+		"description" : "https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 83,
+		"name" : "String - Write a program tofind the smallest window that contains all characters of string itself.",
+		"description" : "https://practice.geeksforgeeks.org/problems/smallest-distant-window/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 84,
+		"name" : "String - Rearrange characters in a string such that no two adjacent are same",
+		"description" : "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 85,
+		"name" : "String - Minimum characters to be added at front to make string palindrome",
+		"description" : "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 86,
+		"name" : "String - Given a sequence of words, print all anagrams together",
+		"description" : "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 87,
+		"name" : "String - Find the smallest window in a string containing all characters of another string",
+		"description" : "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 88,
+		"name" : "String - Recursively remove all adjacent duplicates",
+		"description" : "https://practice.geeksforgeeks.org/problems/consecutive-elements/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 89,
+		"name" : "String - String matching where one string contains wildcard characters",
+		"description" : "https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 90,
+		"name" : "String - Function to find Number of customers who could not get a computer",
+		"description" : "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 91,
+		"name" : "String - Transform One String to Another using Minimum Number of Given Operation",
+		"description" : "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 92,
+		"name" : "String - Check if two given strings are isomorphic to each other",
+		"description" : "https://practice.geeksforgeeks.org/problems/isomorphic-strings/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 93,
+		"name" : "String - Recursively print all sentences that can be formed from list of word lists",
+		"description" : "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 96,
+		"name" : "Searching & Sorting - Find first and last positions of an element in a sorted array",
+		"description" : "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 97,
+		"name" : "Searching & Sorting - Find a Fixed Point (Value equal to index) in a given array",
+		"description" : "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 98,
+		"name" : "Searching & Sorting - Search in a rotated sorted array",
+		"description" : "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 99,
+		"name" : "Searching & Sorting - square root of an integer",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-squares3649/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 100,
+		"name" : "Searching & Sorting - Maximum and minimum of an array using minimum number of comparisons",
+		"description" : "https://practice.geeksforgeeks.org/problems/middle-of-three2926/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 101,
+		"name" : "Searching & Sorting - Optimum location of point to minimize total distance",
+		"description" : "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 102,
+		"name" : "Searching & Sorting - Find the repeating and the missing",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 103,
+		"name" : "Searching & Sorting - find majority element",
+		"description" : "https://practice.geeksforgeeks.org/problems/majority-element/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 104,
+		"name" : "Searching & Sorting - Searching in an array where adjacent differ by at most k",
+		"description" : "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 105,
+		"name" : "Searching & Sorting - find a pair with a given difference",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 106,
+		"name" : "Searching & Sorting - find four elements that sum to a given value",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 107,
+		"name" : "Searching & Sorting - maximum sum such that no 2 elements are adjacent",
+		"description" : "https://practice.geeksforgeeks.org/problems/stickler-theif/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 108,
+		"name" : "Searching & Sorting - Count triplet with sum smaller than a given value",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 109,
+		"name" : "Searching & Sorting - merge 2 sorted arrays",
+		"description" : "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 110,
+		"name" : "Searching & Sorting - print all subarrays with 0 sum",
+		"description" : "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 111,
+		"name" : "Searching & Sorting - Product array Puzzle",
+		"description" : "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 112,
+		"name" : "Searching & Sorting - Sort array according to count of set bits",
+		"description" : "https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 113,
+		"name" : "Searching & Sorting - minimum no. of swaps required to sort the array",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 114,
+		"name" : "Searching & Sorting - Bishu and Soldiers",
+		"description" : "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 115,
+		"name" : "Searching & Sorting - Rasta and Kheshtak",
+		"description" : "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 116,
+		"name" : "Searching & Sorting - Kth smallest number again",
+		"description" : "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 117,
+		"name" : "Searching & Sorting - Find pivot element in a sorted array",
+		"description" : "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 118,
+		"name" : "Searching & Sorting - K-th Element of Two Sorted Arrays",
+		"description" : "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 119,
+		"name" : "Searching & Sorting - Aggressive cows",
+		"description" : "https://www.spoj.com/problems/AGGRCOW/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 120,
+		"name" : "Searching & Sorting - Book Allocation Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 121,
+		"name" : "Searching & Sorting - EKOSPOJ:",
+		"description" : "https://www.spoj.com/problems/EKO/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 122,
+		"name" : "Searching & Sorting - Job Scheduling Algo",
+		"description" : "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 123,
+		"name" : "Searching & Sorting - Missing Number in AP",
+		"description" : "https://practice.geeksforgeeks.org/problems/arithmetic-number/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 124,
+		"name" : "Searching & Sorting - Smallest number with atleastn trailing zeroes infactorial",
+		"description" : "https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 125,
+		"name" : "Searching & Sorting - Painters Partition Problem:",
+		"description" : "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 126,
+		"name" : "Searching & Sorting - ROTI-Prata SPOJ",
+		"description" : "https://www.spoj.com/problems/PRATA/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 127,
+		"name" : "Searching & Sorting - DoubleHelix SPOJ",
+		"description" : "https://www.spoj.com/problems/ANARC05B/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 128,
+		"name" : "Searching & Sorting - Subset Sums",
+		"description" : "https://www.spoj.com/problems/SUBSUMS/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 129,
+		"name" : "Searching & Sorting - Findthe inversion count",
+		"description" : "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 130,
+		"name" : "Searching & Sorting - Implement Merge-sort in-place",
+		"description" : "https://www.geeksforgeeks.org/in-place-merge-sort/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 131,
+		"name" : "Searching & Sorting - Partitioning and Sorting Arrays with Many Repeated Entries",
+		"description" : "https://www.baeldung.com/java-sorting-arrays-with-repeated-entries",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 134,
+		"name" : "LinkedList - Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+		"description" : "https://www.geeksforgeeks.org/reverse-a-linked-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 135,
+		"name" : "LinkedList - Reverse a Linked List in group of Given Size. [Very Imp]",
+		"description" : "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 136,
+		"name" : "LinkedList - Write a program to Detect loop in a linked list.",
+		"description" : "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 137,
+		"name" : "LinkedList - Write a program to Delete loop in a linked list.",
+		"description" : "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 138,
+		"name" : "LinkedList - Find the starting point of the loop. ",
+		"description" : "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 139,
+		"name" : "LinkedList - Remove Duplicates in a sorted Linked List.",
+		"description" : "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 140,
+		"name" : "LinkedList - Remove Duplicates in a Un-sorted Linked List.",
+		"description" : "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 141,
+		"name" : "LinkedList - Write a Program to Move the last element to Front in a Linked List.",
+		"description" : "https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 142,
+		"name" : "LinkedList - Add 1 to a number represented as a Linked List.",
+		"description" : "https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 143,
+		"name" : "LinkedList - Add two numbers represented by linked lists.",
+		"description" : "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 144,
+		"name" : "LinkedList - Intersection of two Sorted Linked List.",
+		"description" : "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 145,
+		"name" : "LinkedList - Intersection Point of two Linked Lists.",
+		"description" : "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 146,
+		"name" : "LinkedList - Merge Sort For Linked lists.[Very Important]",
+		"description" : "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 147,
+		"name" : "LinkedList - Quicksort for Linked Lists.[Very Important]",
+		"description" : "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 148,
+		"name" : "LinkedList - Find the middle Element of a linked list.",
+		"description" : "https://leetcode.com/problems/middle-of-the-linked-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 149,
+		"name" : "LinkedList - Check if a linked list is a circular linked list.",
+		"description" : "https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 150,
+		"name" : "LinkedList - Split a Circular linked list into two halves.",
+		"description" : "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 151,
+		"name" : "LinkedList - Write a Program to check whether the Singly Linked list is a palindrome or not.",
+		"description" : "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 152,
+		"name" : "LinkedList - Deletion from a Circular Linked List.",
+		"description" : "https://www.geeksforgeeks.org/deletion-circular-linked-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 153,
+		"name" : "LinkedList - Reverse a Doubly Linked list.",
+		"description" : "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 154,
+		"name" : "LinkedList - Find pairs with a given sum in a DLL.",
+		"description" : "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 155,
+		"name" : "LinkedList - Count triplets in a sorted DLL whose sum is equal to given value X.",
+		"description" : "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 156,
+		"name" : "LinkedList - Sort a ksorted Doubly Linked list.[Very IMP]",
+		"description" : "https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 157,
+		"name" : "LinkedList - Rotate DoublyLinked list by N nodes.",
+		"description" : "https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 158,
+		"name" : "LinkedList - Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+		"description" : "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 159,
+		"name" : "LinkedList - Can we reverse a linked list in less than O(n) ?",
+		"description" : "No link provided",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 160,
+		"name" : "LinkedList - Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
+		"description" : "No link provided",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 161,
+		"name" : "LinkedList - Flatten a Linked List",
+		"description" : "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 162,
+		"name" : "LinkedList - Sort a LL of 0's, 1's and 2's",
+		"description" : "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 163,
+		"name" : "LinkedList - Clone a linked list with next and random pointer",
+		"description" : "https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 164,
+		"name" : "LinkedList - Merge K sorted Linked list",
+		"description" : "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 165,
+		"name" : "LinkedList - Multiply 2 no. represented by LL",
+		"description" : "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 166,
+		"name" : "LinkedList - Delete nodes which have a greater value on right side",
+		"description" : "https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 167,
+		"name" : "LinkedList - Segregate even and odd nodes in a Linked List",
+		"description" : "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 168,
+		"name" : "LinkedList - Program for nth node from the end of a Linked List",
+		"description" : "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 169,
+		"name" : "LinkedList - Find the first non-repeating character from a stream of characters",
+		"description" : "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 172,
+		"name" : "Binary Trees - level order traversal",
+		"description" : "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 173,
+		"name" : "Binary Trees - Reverse Level Order traversal",
+		"description" : "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 174,
+		"name" : "Binary Trees - Height of a tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 175,
+		"name" : "Binary Trees - Diameter of a tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 176,
+		"name" : "Binary Trees - Mirror of a tree",
+		"description" : "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 177,
+		"name" : "Binary Trees - Inorder Traversal of a tree both using recursion and Iteration",
+		"description" : "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 178,
+		"name" : "Binary Trees - Preorder Traversal of a tree both using recursion and Iteration",
+		"description" : "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 179,
+		"name" : "Binary Trees - Postorder Traversal of a tree both using recursion and Iteration",
+		"description" : "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 180,
+		"name" : "Binary Trees - Left View of a tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 181,
+		"name" : "Binary Trees - Right View of Tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 182,
+		"name" : "Binary Trees - Top View of a tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 183,
+		"name" : "Binary Trees - Bottom View of a tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 184,
+		"name" : "Binary Trees - Zig-Zag traversal of a binary tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 185,
+		"name" : "Binary Trees - Check if a tree is balanced or not",
+		"description" : "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 186,
+		"name" : "Binary Trees - Diagnol Traversal of a Binary tree",
+		"description" : "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 187,
+		"name" : "Binary Trees - Boundary traversal of a Binary tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 188,
+		"name" : "Binary Trees - Construct Binary Tree from String with Bracket Representation",
+		"description" : "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 189,
+		"name" : "Binary Trees - Convert Binary tree into Doubly Linked List",
+		"description" : "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 190,
+		"name" : "Binary Trees - Convert Binary tree into Sum tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 191,
+		"name" : "Binary Trees - Construct Binary tree from Inorder and preorder traversal",
+		"description" : "https://practice.geeksforgeeks.org/problems/construct-tree-1/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 192,
+		"name" : "Binary Trees - Find minimum swaps required to convert a Binary tree into BST",
+		"description" : "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 193,
+		"name" : "Binary Trees - Check if Binary tree is Sum tree or not",
+		"description" : "https://practice.geeksforgeeks.org/problems/sum-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 194,
+		"name" : "Binary Trees - Check if all leaf nodes are at same level or not",
+		"description" : "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 195,
+		"name" : "Binary Trees - Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+		"description" : "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 196,
+		"name" : "Binary Trees - Check if 2 trees are mirror or not",
+		"description" : "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 197,
+		"name" : "Binary Trees - Sum of Nodes on the Longest path from root to leaf node ",
+		"description" : "https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 198,
+		"name" : "Binary Trees - Check if given graph is tree or not.  [ IMP ]",
+		"description" : "https://www.geeksforgeeks.org/check-given-graph-tree/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 199,
+		"name" : "Binary Trees - Find Largest subtree sum in a tree",
+		"description" : "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 200,
+		"name" : "Binary Trees - Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+		"description" : "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 201,
+		"name" : "Binary Trees - Print all \"K\" Sum paths in a Binary tree",
+		"description" : "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 202,
+		"name" : "Binary Trees - Find LCA in a Binary tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 203,
+		"name" : "Binary Trees - Find distance between 2 nodes in a Binary tree",
+		"description" : "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 204,
+		"name" : "Binary Trees - Kth Ancestor of node in a Binary tree",
+		"description" : "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 205,
+		"name" : "Binary Trees - Find all Duplicate subtrees in a Binary tree [ IMP ]",
+		"description" : "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 206,
+		"name" : "Binary Trees - Tree Isomorphism Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 209,
+		"name" : "Binary Search Trees - Fina a value in a BST",
+		"description" : "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 210,
+		"name" : "Binary Search Trees - Deletion of a node in a BST",
+		"description" : "https://leetcode.com/problems/delete-node-in-a-bst/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 211,
+		"name" : "Binary Search Trees - Find min and max value in a BST",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 212,
+		"name" : "Binary Search Trees - Find inorder successor and inorder predecessor in a BST",
+		"description" : "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 213,
+		"name" : "Binary Search Trees - Check if a tree is a BST or not ",
+		"description" : "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 214,
+		"name" : "Binary Search Trees - Populate Inorder successor of all nodes",
+		"description" : "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 215,
+		"name" : "Binary Search Trees - Find LCA  of 2 nodes in a BST",
+		"description" : "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 216,
+		"name" : "Binary Search Trees - Construct BST from preorder traversal",
+		"description" : "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 217,
+		"name" : "Binary Search Trees - Convert Binary tree into BST",
+		"description" : "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 218,
+		"name" : "Binary Search Trees - Convert a normal BST into a Balanced BST",
+		"description" : "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 219,
+		"name" : "Binary Search Trees - Merge two BST [ V.V.V>IMP ]",
+		"description" : "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 220,
+		"name" : "Binary Search Trees - Find Kth largest element in a BST",
+		"description" : "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 221,
+		"name" : "Binary Search Trees - Find Kth smallest element in a BST",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 222,
+		"name" : "Binary Search Trees - Count pairs from 2 BST whose sum is equal to given value \"X\"",
+		"description" : "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 223,
+		"name" : "Binary Search Trees - Find the median of BST in O(n) time and O(1) space",
+		"description" : "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 224,
+		"name" : "Binary Search Trees - Count BST ndoes that lie in a given range",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 225,
+		"name" : "Binary Search Trees - Replace every element with the least greater element on its right",
+		"description" : "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 226,
+		"name" : "Binary Search Trees - Given \"n\" appointments, find the conflicting appointments",
+		"description" : "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 227,
+		"name" : "Binary Search Trees - Check preorder is valid or not",
+		"description" : "https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 228,
+		"name" : "Binary Search Trees - Check whether BST contains Dead end",
+		"description" : "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 229,
+		"name" : "Binary Search Trees - Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+		"description" : "https://practice.geeksforgeeks.org/problems/largest-bst/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 230,
+		"name" : "Binary Search Trees - Flatten BST to sorted list",
+		"description" : "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 233,
+		"name" : "Greedy - Activity Selection Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 234,
+		"name" : "Greedy - Job SequencingProblem",
+		"description" : "https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 235,
+		"name" : "Greedy - Huffman Coding",
+		"description" : "https://practice.geeksforgeeks.org/problems/huffman-encoding/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 236,
+		"name" : "Greedy - Water Connection Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/water-connection-problem/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 237,
+		"name" : "Greedy - Fractional Knapsack Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/fractional-knapsack/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 238,
+		"name" : "Greedy - Greedy Algorithm to find Minimum number of Coins",
+		"description" : "https://practice.geeksforgeeks.org/problems/coin-piles/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 239,
+		"name" : "Greedy - Maximum trains for which stoppage can be provided",
+		"description" : "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 240,
+		"name" : "Greedy - Minimum Platforms Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 241,
+		"name" : "Greedy - Buy Maximum Stocks if i stocks can be bought on i-th day",
+		"description" : "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 242,
+		"name" : "Greedy - Find the minimum and maximum amount to buy all N candies",
+		"description" : "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 243,
+		"name" : "Greedy - Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+		"description" : "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 244,
+		"name" : "Greedy - Minimum Cost to cut a board into squares",
+		"description" : "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 245,
+		"name" : "Greedy - Check if it is possible to survive on Island",
+		"description" : "https://www.geeksforgeeks.org/survival/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 246,
+		"name" : "Greedy - Find maximum meetings in one room",
+		"description" : "https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 247,
+		"name" : "Greedy - Maximum product subset of an array",
+		"description" : "https://www.geeksforgeeks.org/maximum-product-subset-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 248,
+		"name" : "Greedy - Maximize array sum after K negations",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 249,
+		"name" : "Greedy - Maximize the sum of arr[i]*i",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 250,
+		"name" : "Greedy - Maximum sum of absolute difference of an array",
+		"description" : "https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 251,
+		"name" : "Greedy - Maximize sum of consecutive differences in a circular array",
+		"description" : "https://practice.geeksforgeeks.org/problems/swap-and-maximize/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 252,
+		"name" : "Greedy - Minimum sum of absolute difference of pairs of two arrays",
+		"description" : "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 253,
+		"name" : "Greedy - Program for Shortest Job First (or SJF) CPU Scheduling",
+		"description" : "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 254,
+		"name" : "Greedy - Program for Least Recently Used (LRU) Page Replacement algorithm",
+		"description" : "https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 255,
+		"name" : "Greedy - Smallest subset with sum greater than all other elements",
+		"description" : "https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 256,
+		"name" : "Greedy - Chocolate Distribution Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 257,
+		"name" : "Greedy - DEFKIN -Defense of a Kingdom",
+		"description" : "https://www.spoj.com/problems/DEFKIN/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 258,
+		"name" : "Greedy - DIEHARD -DIE HARD",
+		"description" : "https://www.spoj.com/problems/DIEHARD/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 259,
+		"name" : "Greedy - GERGOVIA -Wine trading in Gergovia",
+		"description" : "https://www.spoj.com/problems/GERGOVIA/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 260,
+		"name" : "Greedy - Picking Up Chicks",
+		"description" : "https://www.spoj.com/problems/GCJ101BB/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 261,
+		"name" : "Greedy - CHOCOLA Chocolate",
+		"description" : "https://www.spoj.com/problems/CHOCOLA/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 262,
+		"name" : "Greedy - ARRANGE -Arranging Amplifiers",
+		"description" : "https://www.spoj.com/problems/ARRANGE/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 263,
+		"name" : "Greedy - K Centers Problem",
+		"description" : "https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 264,
+		"name" : "Greedy - Minimum Cost of ropes",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 265,
+		"name" : "Greedy - Find smallest number with given number of digits and sum of digits",
+		"description" : "https://practice.geeksforgeeks.org/problems/smallest-number5829/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 266,
+		"name" : "Greedy - Rearrange characters in a string such that no two adjacent are same",
+		"description" : "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 267,
+		"name" : "Greedy - Find maximum sum possible equal sum of three stacks",
+		"description" : "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 270,
+		"name" : "BackTracking - Rat in a maze Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 271,
+		"name" : "BackTracking - Printing all solutions in N-Queen Problem",
+		"description" : "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 272,
+		"name" : "BackTracking - Word Break Problem using Backtracking",
+		"description" : "https://practice.geeksforgeeks.org/problems/word-break-part-2/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 273,
+		"name" : "BackTracking - Remove Invalid Parentheses",
+		"description" : "https://leetcode.com/problems/remove-invalid-parentheses/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 274,
+		"name" : "BackTracking - Sudoku Solver",
+		"description" : "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 275,
+		"name" : "BackTracking - m Coloring Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 276,
+		"name" : "BackTracking - Print all palindromic partitions of a string",
+		"description" : "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 277,
+		"name" : "BackTracking - Subset Sum Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 278,
+		"name" : "BackTracking - The Knights tour problem",
+		"description" : "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 279,
+		"name" : "BackTracking - Tug of War",
+		"description" : "https://www.geeksforgeeks.org/tug-of-war/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 280,
+		"name" : "BackTracking - Find shortest safe route in a path with landmines",
+		"description" : "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 281,
+		"name" : "BackTracking - Combinational Sum",
+		"description" : "https://practice.geeksforgeeks.org/problems/combination-sum/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 282,
+		"name" : "BackTracking - Find Maximum number possible by doing at-most K swaps",
+		"description" : "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 283,
+		"name" : "BackTracking - Print all permutations of a string ",
+		"description" : "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 284,
+		"name" : "BackTracking - Find if there is a path of more than k length from a source",
+		"description" : "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 285,
+		"name" : "BackTracking - Longest Possible Route in a Matrix with Hurdles",
+		"description" : "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 286,
+		"name" : "BackTracking - Print all possible paths from top left to bottom right of a mXn matrix",
+		"description" : "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 287,
+		"name" : "BackTracking - Partition of a set intoK subsets with equal sum",
+		"description" : "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 288,
+		"name" : "BackTracking - Find the K-th Permutation Sequence of first N natural numbers",
+		"description" : "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 291,
+		"name" : "Stacks & Queues -  Implement Stack from Scratch",
+		"description" : "https://www.tutorialspoint.com/javaexamples/data_stack.htm",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 292,
+		"name" : "Stacks & Queues -  Implement Queue from Scratch",
+		"description" : "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 293,
+		"name" : "Stacks & Queues - Implement 2 stack in an array",
+		"description" : "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 294,
+		"name" : "Stacks & Queues - find the middle element of a stack",
+		"description" : "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 295,
+		"name" : "Stacks & Queues - Implement \"N\" stacks in an Array",
+		"description" : "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 296,
+		"name" : "Stacks & Queues - Check the expression has valid or Balanced parenthesis or not.",
+		"description" : "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 297,
+		"name" : "Stacks & Queues - Reverse a String using Stack",
+		"description" : "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 298,
+		"name" : "Stacks & Queues - Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+		"description" : "https://practice.geeksforgeeks.org/problems/special-stack/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 299,
+		"name" : "Stacks & Queues - Find the next Greater element",
+		"description" : "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 300,
+		"name" : "Stacks & Queues - The celebrity Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 301,
+		"name" : "Stacks & Queues - Arithmetic Expression evaluation",
+		"description" : "https://www.geeksforgeeks.org/arithmetic-expression-evalution/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 302,
+		"name" : "Stacks & Queues - Evaluation of Postfix expression",
+		"description" : "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 303,
+		"name" : "Stacks & Queues - Implement a method to insert an element at its bottom without using any other data structure.",
+		"description" : "https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 304,
+		"name" : "Stacks & Queues - Reverse a stack using recursion",
+		"description" : "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 305,
+		"name" : "Stacks & Queues - Sort a Stack using recursion",
+		"description" : "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 306,
+		"name" : "Stacks & Queues - Merge Overlapping Intervals",
+		"description" : "https://practice.geeksforgeeks.org/problems/overlapping-intervals/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 307,
+		"name" : "Stacks & Queues - Largest rectangular Area in Histogram",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 308,
+		"name" : "Stacks & Queues - Length of the Longest Valid Substring",
+		"description" : "https://practice.geeksforgeeks.org/problems/valid-substring0624/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 309,
+		"name" : "Stacks & Queues - Expression contains redundant bracket or not",
+		"description" : "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 310,
+		"name" : "Stacks & Queues - Implement Stack using Queue",
+		"description" : "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 311,
+		"name" : "Stacks & Queues - Implement Stack using Deque",
+		"description" : "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 312,
+		"name" : "Stacks & Queues - Stack Permutations (Check if an array is stack permutation of other)",
+		"description" : "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 313,
+		"name" : "Stacks & Queues - Implement Queue using Stack  ",
+		"description" : "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 314,
+		"name" : "Stacks & Queues - Implement \"n\" queue in an array",
+		"description" : "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 315,
+		"name" : "Stacks & Queues - Implement a Circular queue",
+		"description" : "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 316,
+		"name" : "Stacks & Queues - LRU Cache Implementationa",
+		"description" : "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 317,
+		"name" : "Stacks & Queues - Reverse a Queue using recursion",
+		"description" : "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 318,
+		"name" : "Stacks & Queues - Reverse the first K elements of a queue",
+		"description" : "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 319,
+		"name" : "Stacks & Queues - Interleave the first half of the queue with second half",
+		"description" : "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 320,
+		"name" : "Stacks & Queues - Find the first circular tour that visits all Petrol Pumps",
+		"description" : "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 321,
+		"name" : "Stacks & Queues - Minimum time required to rot all oranges",
+		"description" : "https://practice.geeksforgeeks.org/problems/rotten-oranges/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 322,
+		"name" : "Stacks & Queues - Distance of nearest cell having 1 in a binary matrix",
+		"description" : "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 323,
+		"name" : "Stacks & Queues - First negative integer in every window of size k",
+		"description" : "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 324,
+		"name" : "Stacks & Queues - Check if all levels of two trees are anagrams or not.",
+		"description" : "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 325,
+		"name" : "Stacks & Queues - Sum of minimum and maximum elements of all subarrays of size k.",
+		"description" : "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 326,
+		"name" : "Stacks & Queues - Minimum sum of squares of character counts in a given string after removing k characters.",
+		"description" : "https://practice.geeksforgeeks.org/problems/game-with-string/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 327,
+		"name" : "Stacks & Queues - Queue based approach or first non-repeating character in a stream.",
+		"description" : "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 328,
+		"name" : "Stacks & Queues - Next Smaller Element",
+		"description" : "https://www.geeksforgeeks.org/next-smaller-element/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 331,
+		"name" : "Heap - Implement a Maxheap/MinHeap using arrays and recursion.",
+		"description" : "https://www.geeksforgeeks.org/building-heap-from-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 332,
+		"name" : "Heap - Sort an Array using heap. (HeapSort)",
+		"description" : "https://www.geeksforgeeks.org/heap-sort/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 333,
+		"name" : "Heap - Maximum of all subarrays of size k.",
+		"description" : "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 334,
+		"name" : "Heap - k largest element in an array",
+		"description" : "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 335,
+		"name" : "Heap - Kth smallest and largest element in an unsorted array",
+		"description" : "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 336,
+		"name" : "Heap - Merge K sorted arrays. [ IMP ]",
+		"description" : "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 337,
+		"name" : "Heap - Merge 2 Binary Max Heaps",
+		"description" : "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 338,
+		"name" : "Heap - Kth largest sum continuous subarrays",
+		"description" : "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 339,
+		"name" : "Heap - Leetcode- reorganize strings",
+		"description" : "https://leetcode.com/problems/reorganize-string/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 340,
+		"name" : "Heap - Merge K Sorted Linked Lists [V.IMP]",
+		"description" : "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 341,
+		"name" : "Heap - Smallest range in K Lists",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 342,
+		"name" : "Heap - Median in a stream of Integers",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 343,
+		"name" : "Heap - Check if a Binary Tree is Heap",
+		"description" : "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 344,
+		"name" : "Heap - Connect n ropes with minimum cost",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 345,
+		"name" : "Heap - Convert BST to Min Heap",
+		"description" : "https://www.geeksforgeeks.org/convert-bst-min-heap/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 346,
+		"name" : "Heap - Convert min heap to max heap",
+		"description" : "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 347,
+		"name" : "Heap - Rearrange characters in a string such that no two adjacent are same.",
+		"description" : "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 348,
+		"name" : "Heap - Minimum sum of two numbers formed from digits of an array",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 351,
+		"name" : "Graph - Create a Graph, print it",
+		"description" : "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 352,
+		"name" : "Graph - Implement BFS algorithm ",
+		"description" : "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 353,
+		"name" : "Graph - Implement DFS Algo ",
+		"description" : "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 354,
+		"name" : "Graph - Detect Cycle in Directed Graph using BFS/DFS Algo ",
+		"description" : "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 355,
+		"name" : "Graph - Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+		"description" : "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 356,
+		"name" : "Graph - Search in a Maze",
+		"description" : "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 357,
+		"name" : "Graph - Minimum Step by Knight",
+		"description" : "https://practice.geeksforgeeks.org/problems/steps-by-knight/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 358,
+		"name" : "Graph - flood fill algo",
+		"description" : "https://leetcode.com/problems/flood-fill/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 359,
+		"name" : "Graph - Clone a graph",
+		"description" : "https://leetcode.com/problems/clone-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 360,
+		"name" : "Graph - Making wired Connections",
+		"description" : "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 361,
+		"name" : "Graph - word Ladder ",
+		"description" : "https://leetcode.com/problems/word-ladder/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 362,
+		"name" : "Graph - Dijkstra algo",
+		"description" : "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 363,
+		"name" : "Graph - Implement Topological Sort ",
+		"description" : "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 364,
+		"name" : "Graph - Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+		"description" : "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 365,
+		"name" : "Graph - Find whether it is possible to finish all tasks or not from given dependencies",
+		"description" : "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 366,
+		"name" : "Graph - Find the no. of Isalnds",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 367,
+		"name" : "Graph - Given a sorted Dictionary of an Alien Language, find order of characters",
+		"description" : "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 368,
+		"name" : "Graph - Implement KruksalsAlgorithm",
+		"description" : "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 369,
+		"name" : "Graph - Implement Prims Algorithm",
+		"description" : "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 370,
+		"name" : "Graph - Total no. of Spanning tree in a graph",
+		"description" : "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 371,
+		"name" : "Graph - Implement Bellman Ford Algorithm",
+		"description" : "https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 372,
+		"name" : "Graph - Implement Floyd warshallAlgorithm",
+		"description" : "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 373,
+		"name" : "Graph - Travelling Salesman Problem",
+		"description" : "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 374,
+		"name" : "Graph - Graph ColouringProblem",
+		"description" : "https://www.geeksforgeeks.org/graph-coloring-applications/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 375,
+		"name" : "Graph - Snake and Ladders Problem",
+		"description" : "https://leetcode.com/problems/snakes-and-ladders/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 376,
+		"name" : "Graph - Find bridge in a graph",
+		"description" : "https://www.geeksforgeeks.org/bridge-in-a-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 377,
+		"name" : "Graph - Count Strongly connected Components(Kosaraju Algo)",
+		"description" : "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 378,
+		"name" : "Graph - Check whether a graph is Bipartite or Not",
+		"description" : "https://www.geeksforgeeks.org/bipartite-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 379,
+		"name" : "Graph - Detect Negative cycle in a graph",
+		"description" : "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 380,
+		"name" : "Graph - Longest path in a Directed Acyclic Graph",
+		"description" : "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 381,
+		"name" : "Graph - Journey to the Moon",
+		"description" : "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 382,
+		"name" : "Graph - Cheapest Flights Within K Stops",
+		"description" : "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 383,
+		"name" : "Graph - Oliver and the Game",
+		"description" : "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 384,
+		"name" : "Graph - Water Jug problem using BFS",
+		"description" : "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 385,
+		"name" : "Graph - Water Jug problem using BFS",
+		"description" : "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 386,
+		"name" : "Graph - Find if there is a path of more thank length from a source",
+		"description" : "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 387,
+		"name" : "Graph - M-ColouringProblem",
+		"description" : "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 388,
+		"name" : "Graph - Minimum edges to reverse o make path from source to destination",
+		"description" : "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 389,
+		"name" : "Graph - Paths to travel each nodes using each edge(Seven Bridges)",
+		"description" : "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 390,
+		"name" : "Graph - Vertex Cover Problem",
+		"description" : "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 391,
+		"name" : "Graph - Chinese Postman or Route Inspection",
+		"description" : "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 392,
+		"name" : "Graph - Number of Triangles in a Directed and Undirected Graph",
+		"description" : "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 393,
+		"name" : "Graph - Minimise the cashflow among a given set of friends who have borrowed money from each other",
+		"description" : "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 394,
+		"name" : "Graph - Two Clique Problem",
+		"description" : "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 397,
+		"name" : "Trie - Construct a trie from scratch",
+		"description" : "https://www.geeksforgeeks.org/trie-insert-and-search/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 398,
+		"name" : "Trie - Find shortest unique prefix for every word in a given list",
+		"description" : "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 399,
+		"name" : "Trie - Word Break Problem | (Trie solution)",
+		"description" : "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 400,
+		"name" : "Trie - Given a sequence of words, print all anagrams together",
+		"description" : "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 401,
+		"name" : "Trie - Implement a Phone Directory",
+		"description" : "https://practice.geeksforgeeks.org/problems/phone-directory/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 402,
+		"name" : "Trie - Print unique rows in a given boolean matrix",
+		"description" : "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 405,
+		"name" : "Dynamic Programming - Coin ChangeProblem",
+		"description" : "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 406,
+		"name" : "Dynamic Programming - Knapsack Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 407,
+		"name" : "Dynamic Programming - Binomial CoefficientProblem",
+		"description" : "https://practice.geeksforgeeks.org/problems/ncr1019/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 408,
+		"name" : "Dynamic Programming - Permutation CoefficientProblem",
+		"description" : "https://www.geeksforgeeks.org/permutation-coefficient/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 409,
+		"name" : "Dynamic Programming - Program for nth Catalan Number",
+		"description" : "https://www.geeksforgeeks.org/program-nth-catalan-number/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 410,
+		"name" : "Dynamic Programming - Matrix Chain Multiplication ",
+		"description" : "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 411,
+		"name" : "Dynamic Programming - Edit Distance",
+		"description" : "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 412,
+		"name" : "Dynamic Programming - Subset Sum Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 413,
+		"name" : "Dynamic Programming - Friends Pairing Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 414,
+		"name" : "Dynamic Programming - Gold Mine Problem",
+		"description" : "https://www.geeksforgeeks.org/gold-mine-problem/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 415,
+		"name" : "Dynamic Programming - Assembly Line SchedulingProblem",
+		"description" : "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 416,
+		"name" : "Dynamic Programming - Painting the Fenceproblem",
+		"description" : "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 417,
+		"name" : "Dynamic Programming - Maximize The Cut Segments",
+		"description" : "https://practice.geeksforgeeks.org/problems/cutted-segments/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 418,
+		"name" : "Dynamic Programming - Longest Common Subsequence",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 419,
+		"name" : "Dynamic Programming - Longest Repeated Subsequence",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 420,
+		"name" : "Dynamic Programming - Longest Increasing Subsequence",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 421,
+		"name" : "Dynamic Programming - Space Optimized Solution of LCS",
+		"description" : "https://www.geeksforgeeks.org/space-optimized-solution-lcs/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 422,
+		"name" : "Dynamic Programming - LCS (Longest Common Subsequence) of three strings",
+		"description" : "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 423,
+		"name" : "Dynamic Programming - Maximum Sum Increasing Subsequence",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 424,
+		"name" : "Dynamic Programming - Count all subsequences having product less than K",
+		"description" : "https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 425,
+		"name" : "Dynamic Programming - Longest subsequence such that difference between adjacent is one",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 426,
+		"name" : "Dynamic Programming - Maximum subsequence sum such that no three are consecutive",
+		"description" : "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 427,
+		"name" : "Dynamic Programming - Egg Dropping Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 428,
+		"name" : "Dynamic Programming - Maximum Length Chain of Pairs",
+		"description" : "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 429,
+		"name" : "Dynamic Programming - Maximum size square sub-matrix with all 1s",
+		"description" : "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 430,
+		"name" : "Dynamic Programming - Maximum sum of pairs with specific difference",
+		"description" : "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 431,
+		"name" : "Dynamic Programming - Min Cost PathProblem",
+		"description" : "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 432,
+		"name" : "Dynamic Programming - Maximum difference of zeros and ones in binary string",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 433,
+		"name" : "Dynamic Programming - Minimum number of jumps to reach end",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 434,
+		"name" : "Dynamic Programming - Minimum cost to fill given weight in a bag",
+		"description" : "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 435,
+		"name" : "Dynamic Programming - Minimum removals from array to make max min <= K",
+		"description" : "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 436,
+		"name" : "Dynamic Programming - Longest Common Substring",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-common-substring/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 437,
+		"name" : "Dynamic Programming - Count number of ways to reacha given score in a game",
+		"description" : "https://practice.geeksforgeeks.org/problems/reach-a-given-score/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 438,
+		"name" : "Dynamic Programming - Count Balanced Binary Trees of Height h",
+		"description" : "https://practice.geeksforgeeks.org/problems/bbt-counter/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 439,
+		"name" : "Dynamic Programming - LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+		"description" : "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 440,
+		"name" : "Dynamic Programming - Smallest sum contiguous subarray",
+		"description" : "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 441,
+		"name" : "Dynamic Programming - Unbounded Knapsack (Repetition of items allowed)",
+		"description" : "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 442,
+		"name" : "Dynamic Programming - Word Break Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/word-break/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 443,
+		"name" : "Dynamic Programming - Largest Independent Set Problem",
+		"description" : "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 444,
+		"name" : "Dynamic Programming - Partition problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 445,
+		"name" : "Dynamic Programming - Longest Palindromic Subsequence",
+		"description" : "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 446,
+		"name" : "Dynamic Programming - Count All Palindromic Subsequence in a given String",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 447,
+		"name" : "Dynamic Programming - Longest Palindromic Substring",
+		"description" : "https://leetcode.com/problems/longest-palindromic-substring/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 448,
+		"name" : "Dynamic Programming - Longest alternating subsequence",
+		"description" : "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 449,
+		"name" : "Dynamic Programming - Weighted Job Scheduling",
+		"description" : "https://www.geeksforgeeks.org/weighted-job-scheduling/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 450,
+		"name" : "Dynamic Programming - Coin game winner where every player has three choices",
+		"description" : "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 451,
+		"name" : "Dynamic Programming - Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+		"description" : "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 452,
+		"name" : "Dynamic Programming - Maximum profit by buying and selling a share at most twice [ IMP ]",
+		"description" : "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 453,
+		"name" : "Dynamic Programming - Optimal Strategy for a Game",
+		"description" : "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 454,
+		"name" : "Dynamic Programming - Optimal Binary Search Tree",
+		"description" : "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 455,
+		"name" : "Dynamic Programming - Palindrome PartitioningProblem",
+		"description" : "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 456,
+		"name" : "Dynamic Programming - Word Wrap Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/word-wrap/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 457,
+		"name" : "Dynamic Programming - Mobile Numeric Keypad Problem [ IMP ]",
+		"description" : "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 458,
+		"name" : "Dynamic Programming - Boolean Parenthesization Problem",
+		"description" : "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 459,
+		"name" : "Dynamic Programming - Largest rectangular sub-matrix whose sum is 0",
+		"description" : "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 460,
+		"name" : "Dynamic Programming - Largest area rectangular sub-matrix with equal number of 1s and 0s [ IMP ]",
+		"description" : "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 461,
+		"name" : "Dynamic Programming - Maximum sum rectangle in a 2D matrix",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 462,
+		"name" : "Dynamic Programming - Maximum profit by buying and selling a share at most k times",
+		"description" : "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 463,
+		"name" : "Dynamic Programming - Find if a string is interleaved of two other strings",
+		"description" : "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 464,
+		"name" : "Dynamic Programming - Maximum Length of Pair Chain",
+		"description" : "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 467,
+		"name" : "Bit Manipulation - Count set bits in an integer",
+		"description" : "https://practice.geeksforgeeks.org/problems/set-bits0143/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 468,
+		"name" : "Bit Manipulation - Find the two non-repeating elements in an array of repeating elements",
+		"description" : "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 469,
+		"name" : "Bit Manipulation - Count number of bits to be flipped to convert A to B",
+		"description" : "https://practice.geeksforgeeks.org/problems/bit-difference/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 470,
+		"name" : "Bit Manipulation - Count total set bits in all numbers from 1 to n",
+		"description" : "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 471,
+		"name" : "Bit Manipulation - Program to find whether a no is power of two",
+		"description" : "https://practice.geeksforgeeks.org/problems/power-of-2/0",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 472,
+		"name" : "Bit Manipulation - Find position of the only set bit",
+		"description" : "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 473,
+		"name" : "Bit Manipulation - Copy set bits in a range",
+		"description" : "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 474,
+		"name" : "Bit Manipulation - Divide two integers without using multiplication, division and mod operator",
+		"description" : "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 475,
+		"name" : "Bit Manipulation - Calculate square of a number without using *, / and pow()",
+		"description" : "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 476,
+		"name" : "Bit Manipulation - Power Set",
+		"description" : "https://practice.geeksforgeeks.org/problems/power-set4302/1",
+		"quest_type" : "Main",
+		"quest_subtype" : "DSA"
+	},
+	{
+		"id" : 1990,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1991,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1992,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1993,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1994,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1995,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1996,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1997,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1998,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 1999,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2000,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2001,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2002,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2003,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2004,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2005,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2006,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2007,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2008,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2009,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	},
+	{
+		"id" : 2010,
+		"name" : "Java Basics - Variables - Declaration and Scope",
+		"description" : "Discuss the declaration, initialization, and scope of variables in different contexts.",
+		"quest_type" : "Main",
+		"quest_subtype" : "Java"
+	}
+]
